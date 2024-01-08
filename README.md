@@ -1,6 +1,6 @@
 # ATCNet
 **Aggregating Transformers and CNNs for Salient Object Detection in Optical Remote Sensing Images.**
-Liuxin Bao, Xiaofei Zhou, Bolun Zheng, Haibing Yin, Zunjie Zhu, Jiyong Zhang, and Chenggang Yan. Neurocomputing, 2023, 553: 126560.
+ Liuxin Bao, Xiaofei Zhou, Bolun Zheng, Haibing Yin, Zunjie Zhu, Jiyong Zhang, and Chenggang Yan. Neurocomputing, 2023, 553: 126560.
 
 ## Prerequisites
 
