@@ -9,8 +9,14 @@
 https://github.com/Lx-Bao/ATCNet.git
 ```
 ### 2. Training
-
+Download the pretrained model **swin_base_patch4_window12_384_22k.pth** and **resnet50-19c8e357.pth**, and put them on ./pretrained/
+```
+python train.py
+```
 ### 3. Testing
+```
+python test.py
+```
 
 ### 4. Evaluation
 
