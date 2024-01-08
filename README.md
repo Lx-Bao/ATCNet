@@ -7,7 +7,9 @@ Liuxin Bao, Xiaofei Zhou, Bolun Zheng, Haibing Yin, Zunjie Zhu, Jiyong Zhang, an
 ## Usage
 
 ### 1. Clone the repository
-
+```
+https://github.com/Lx-Bao/ATCNet.git
+```
 ### 2. Training
 
 ### 3. Testing
@@ -15,6 +17,10 @@ Liuxin Bao, Xiaofei Zhou, Bolun Zheng, Haibing Yin, Zunjie Zhu, Jiyong Zhang, an
 ### 4. Evaluation
 
 - We provide [saliency maps](https://pan.baidu.com/s/1AEoMaddDCn6CobGiUb5uVg?pwd=stvm) (fetch code: stvm) of our QSFNet on VDT-2048 dataset.
+
+
+## Architecture
+
 
 ## Citation
 ```
