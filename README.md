@@ -20,7 +20,11 @@ https://github.com/Lx-Bao/ATCNet.git
 
 
 ## Architecture
+![ATCNet architecture](Fig/fig_framework.png)
 
+## Qualitative Comparison
+### ORSSD
+![EORSSD](Fig/fig_comparison.png)
 
 ## Citation
 ```
