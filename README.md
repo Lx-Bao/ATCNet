@@ -20,7 +20,7 @@ python test.py
 
 ### 4. Evaluation
 
-- We provide [saliency maps](https://pan.baidu.com/s/1AEoMaddDCn6CobGiUb5uVg?pwd=stvm) (fetch code: stvm) of our QSFNet on VDT-2048 dataset.
+- We provide [saliency maps](https://pan.baidu.com/s/1AEoMaddDCn6CobGiUb5uVg?pwd=stvm) (fetch code: stvm) of our ATCNet on EORSSD and ORSSD dataset.
 
 
 ## Architecture
