@@ -7,9 +7,7 @@ from utils.data import get_loader, test_dataset
 from utils.utils import AvgMeter
 import torch.nn.functional as F
 import numpy as np
-import matplotlib.pyplot as plt
 import os
-import imageio
 import cv2
 
 
@@ -27,7 +25,7 @@ def structure_loss(pred, mask):
 
 def train(train_loader, model, optimizer, epoch, best_loss):
     model.train()
-    loss_record0,loss_record1,loss_record2, loss_record3, loss_record4,loss_record5 = AvgMeter(),AvgMeter(), AvgMeter(), AvgMeter() ,AvgMeter()
+    loss_record1,loss_record2, loss_record3, loss_record4,loss_record5 = AvgMeter(),AvgMeter(), AvgMeter(), AvgMeter() ,AvgMeter()
     accum = 0
     for i, (images, gts) in enumerate(train_loader, start=1):
         # ---- data prepare ----
